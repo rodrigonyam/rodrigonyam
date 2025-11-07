@@ -1,6 +1,6 @@
 Hi There
 # 💫 About Me:
-🔭 I’m currently working on my Biomedical Science degree<br>🌱 I’m currently learning to become an IBM Full Stack Javascript Developer<br>👯 I’m looking to collaborate with other web delveopers to showcase my talent<br>🤔 I’m looking for help with Microsoft Power BI.<br>💬 Ask me about nickname in College.<br>📫 How to reach me: rodrigonyam@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I have written hundreds of poems in French and English.
+🔭 I’m currently working on my Biomedical Science degree<br>🌱 I’m currently learning to become an IBM Full Stack Javascript Developer<br>👯 I’m looking to collaborate with other web delveopers to showcase my talent<br>🤔 I’m interested in Microsoft Power BI.<br>💬 Ask me about nickname in College.<br>📫 How to reach me: rodrigonyam@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I have written hundreds of poems in French and English.
 
 
 ## 🌐 Socials:
